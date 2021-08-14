@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello this is Gaurav Poudel all the way from Nepal 👋
 
-<!--
-**iamMrGaurav/iamMrGaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Teispace
+- 🌱 I’m learnig Javascript,Node JS, Express JS
 
-Here are some ideas to get you started:
+- 📫 How to reach me: [Facebook - @we.croods](https://www.facebook.com/we.croods/) , [instagram - @we_croods](https://www.instagram.com/we_croods/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Error is in my passion, 😄😄😄
+
+[![Twitter: GauravPaudel23](https://img.shields.io/twitter/follow/GauravPaudel23?style=social)](https://twitter.com/GauravPaudel23)
+
+
+[![Instagram: we_croods](https://img.shields.io/badge/instagram-we_croods-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/we_croods/)](https://www.instagram.com/we_croods/)
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamMrGaurav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+<a href="https://github.com/iamMrGaurav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMrGaurav&theme=dark&hide_langs_below=1" />
+</a>
