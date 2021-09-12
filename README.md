@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Teispace
 - 🌱 I’m learnig Javascript,Node JS, Express JS
+- Curretly iam working on a flutter project
 
 - 📫 How to reach me: [Facebook - @we.croods](https://www.facebook.com/we.croods/) , [instagram - @we_croods](https://www.instagram.com/we_croods/)
 
