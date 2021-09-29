@@ -3,10 +3,7 @@
 - 🔭 I’m currently working on Teispace
 - 🌱 I’m learnig Javascript,Node JS, Express JS
 - Curretly iam working on a flutter project
-
-- 📫 How to reach me: <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammrgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="iammrgaurav" /> </p>
-
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammrgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="iammrgaurav" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
