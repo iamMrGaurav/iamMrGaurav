@@ -4,7 +4,16 @@
 - 🌱 I’m learnig Javascript,Node JS, Express JS
 - Curretly iam working on a flutter project
 
-- 📫 How to reach me: [Facebook - @we.croods](https://www.facebook.com/we.croods/) , [instagram - @we_croods](https://www.instagram.com/we_croods/)
+- 📫 How to reach me: <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammrgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="iammrgaurav" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammrgaurav" alt="iammrgaurav" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gauravpaudel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravpaudel23" height="30" width="40" /></a>
+<a href="https://fb.com/we.croods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="we.croods" height="30" width="40" /></a>
+<a href="https://instagram.com/@we_croods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@we_croods" height="30" width="40" /></a>
+</p>
 
 - ⚡ Error is in my passion, 😄😄😄
 
