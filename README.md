@@ -1,5 +1,5 @@
 ### Hello this is Gaurav Poudel all the way from Nepal 👋
-- 🔭 I’m currently working on Thulo Technol0gy
+- 🔭 I’m currently working at Thulo Technol0gy
 - 🔭 I worked at Teispace
 - 🌱 I’m learnig Javascript,Node JS, Express JS
 - Curretly iam working on a flutter project
