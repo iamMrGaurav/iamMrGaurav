@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/gauravpaudel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravpaudel23" height="30" width="40" /></a>
 <a href="https://fb.com/we.croods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="we.croods" height="30" width="40" /></a>
-<a href="https://instagram.com/@we_croods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@we_croods" height="30" width="40" /></a>
+<a href="https://www.instagram.com/we_croods/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@we_croods" height="30" width="40" /></a>
 </p>
 
 - ⚡ Error is in my passion, 😄😄😄
