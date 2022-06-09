@@ -1,7 +1,7 @@
 ### Hello this is Gaurav Poudel all the way from Nepal 👋
 - 🔭 I’m currently working at Teispace.
 - 🔭 I worked at Thulo Technol0gy
-- 🌱 I’m learnig Javascript,Node JS, Express JS
+- 🌱 I’m learnig Java,Javascript,Node JS, Express JS
 - Curretly iam working on a flutter project
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammrgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="iammrgaurav" /> </p>
 
