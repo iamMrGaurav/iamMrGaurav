@@ -1,7 +1,8 @@
-### Hello this is Gaurav Poudel all the way from Nepal 👋
+# Hello this is Gaurav Poudel all the way from Nepal 👋
 - 🔭 I’m currently working at Teispace.
 - 🔭 I worked at Thulo Technology as a flutter developer
-- 🌱 I’m learnig Java,Javascript,Node JS, Express JS
+- 🌱 I’m currently learnig Java,Spring Boot framework.
+- 🌱 Discusses with me about Java,Flutter, Node Js,Express and many more.
 - Curretly iam learning DSA (Data Structure and Algorithm)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammrgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="iammrgaurav" /> </p>
 
