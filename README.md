@@ -1,5 +1,4 @@
 # Hello this is Gaurav Poudel all the way from Nepal 👋
-- 🔭 I’m currently working at Teispace.
 - 🔭 I worked at Thulo Technology as a flutter developer
 - 🌱 I’m currently learnig Java,Spring Boot framework.
 - 🌱 Discussed with me about Java,Flutter, Node Js,Express and many more.
@@ -13,7 +12,7 @@
 <a href="https://www.instagram.com/we_croods/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@we_croods" height="30" width="40" /></a>
 </p>
 
-- ⚡ Error is in my passion, 😄😄😄
+- ⚡ Spray the Bugs, 😄😄😄
 
 
 
