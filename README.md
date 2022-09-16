@@ -4,7 +4,6 @@
 - 🌱 Discussed with me about Java,Flutter, Node Js,Express and many more.
 - Curretly iam learning DSA (Data Structure and Algorithm)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammrgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="iammrgaurav" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gauravpaudel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravpaudel23" height="30" width="40" /></a>
@@ -13,7 +12,7 @@
 </p>
 
 - ⚡ Spray the Bugs, 😄😄😄
-
+- 
 <img src="https://github-readme-stats.vercel.app/api?username=iamMrGaurav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 
