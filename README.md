@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/iamMrGaurav/iamMrGaurav/main/assets/banner.png](https://timwellsaid.com/wp-content/uploads/2021/07/collage-2231082_1920-1024x859.jpeg)" alt="Gaurav Poudel Banner" />
+  <img src="https://timwellsaid.com/wp-content/uploads/2021/07/collage-2231082_1920-1024x859.jpeg" alt="Gaurav Poudel Banner" />
 </div>
 
 # Namaste! 🙏 I'm Gaurav Poudel, a developer on a journey from the enchanting landscapes of Nepal.
