@@ -7,7 +7,7 @@
 
 ## About Me
 
-👨‍💻 Software Engineer @*******
+👨‍💻 Software Engineer @******* <br>
 🔭 Former Flutter Developer at Thulo Technology. <br>
 🌱 Currently immersing myself in Go, Kubernetes, Redis <br>
 💬 Let's converse about Java, Flutter, Kubernetes, GO! <br>
