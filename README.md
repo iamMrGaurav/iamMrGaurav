@@ -1,24 +1,43 @@
-# Hello this is Gaurav Poudel all the way from Nepal 👋
-- 🔭 I worked at Thulo Technology as a flutter developer
-- 🌱 I’m currently learnig Java,Spring Boot framework.
-- 🌱 Discussed with me about Java,Flutter, Node Js,Express and many more.
-- Curretly iam learning DSA (Data Structure and Algorithm)
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammrgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="iammrgaurav" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gauravpaudel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravpaudel23" height="30" width="40" /></a>
-<a href="https://fb.com/we.croods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="we.croods" height="30" width="40" /></a>
-<a href="https://www.instagram.com/we_croods/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@we_croods" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamMrGaurav/iamMrGaurav/main/assets/banner.png" alt="Gaurav Poudel Banner" />
+</div>
+
+# Namaste! 🙏 I'm Gaurav Poudel, a developer on a journey from the enchanting landscapes of Nepal.
+
+## About Me
+
+🔭 Former Flutter Developer at Thulo Technology. <br>
+🌱 Currently immersing myself in Java and the Spring Boot framework. <br>
+💬 Let's converse about Java, Flutter, Node.js, Express, and more! <br>
+📚 Passionately exploring the realms of Data Structures and Algorithms.
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/gauravpaudel23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://fb.com/we.croods" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/we_croods/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-- ⚡ Spray the Bugs, 😄😄😄
+## 🚀 Quick Facts
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamMrGaurav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+- ⚡ On a mission to squash bugs and make the world a better place, one line of code at a time. 😄
+- 🧘‍♂️ Yoga enthusiast; finding serenity in both code and meditation.
+- 🎮 Casual gamer, escaping into virtual worlds during leisure.
+- 📸 Capturing moments through the lens; photography aficionado.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamMrGaurav&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="GitHub Stats" />
+</div>
 
-<a href="https://github.com/iamMrGaurav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMrGaurav&theme=dark&hide_langs_below=1" />
-</a>
+<div align="center">
+  <a href="https://github.com/iamMrGaurav">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMrGaurav&theme=dark&hide_langs_below=1" alt="Top Languages" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <!-- Add your icons and links here -->
+</p>
