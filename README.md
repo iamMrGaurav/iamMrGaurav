@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/we_croods/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-## 🚀 Quick Facts
+## 🚀 Fun Facts
 
 - ⚡ On a mission to squash bugs and make the world a better place, one line of code at a time. 😄
 - 🧘‍♂️ Yoga enthusiast; finding serenity in both code and meditation.
@@ -28,12 +28,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iamMrGaurav&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="GitHub Stats" />
-</div>
-
-<div align="left">
-  <a href="https://github.com/iamMrGaurav">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMrGaurav&theme=dark&hide_langs_below=1" alt="Top Languages" />
-  </a>
 </div>
 
 ## 🛠️ Languages and Tools
