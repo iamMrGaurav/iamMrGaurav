@@ -13,7 +13,7 @@
 
 ## Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/gauravpaudel23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://fb.com/we.croods" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/we_croods/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -26,11 +26,11 @@
 - 🎮 Casual gamer, escaping into virtual worlds during leisure.
 - 📸 Capturing moments through the lens; photography aficionado.
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iamMrGaurav&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/iamMrGaurav">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMrGaurav&theme=dark&hide_langs_below=1" alt="Top Languages" />
   </a>
