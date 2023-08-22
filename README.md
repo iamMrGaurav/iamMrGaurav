@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Gaurav Poudel Banner" />
 </div>
 
-# Namaste! 🙏 I'm Gaurav Poudel, a developer on a journey from the enchanting landscapes of Nepal.
+# Namaste! 🙏 I'm Gaurav Poudel, an engineer on a journey from the enchanting landscapes of Nepal.
 
 ## About Me
 
