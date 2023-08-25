@@ -51,7 +51,7 @@
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
   <a href="https://leetcode.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="leetcode" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdeWqByYxoi9OmZMzllNCBU1V6_PhrvLPVbGvLeq_8pQ&s" alt="leetcode" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank"> 
