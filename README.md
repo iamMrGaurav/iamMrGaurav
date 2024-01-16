@@ -29,10 +29,6 @@
 - 🎮 Casual gamer, escaping into virtual worlds during leisure.
 - 📸 Capturing moments through the lens; photography aficionado.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamMrGaurav&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="GitHub Stats" />
-</div>
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
