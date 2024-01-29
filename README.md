@@ -9,7 +9,7 @@
 
 👨‍💻 Software Engineer @Sariska.io <br>
 🔭 Former Flutter Developer at Thulo Technology. <br>
-🌱 Currently immersing myself in GO, Kubernetes, Eks, AWS, Prometheus, Grafana, and Kibana<br>
+🌱 Currently immersing myself in GO, WebRTC, Kubernetes, Eks, AWS, Prometheus, Grafana, and Kibana<br>
 💬 Let's converse about Java, Flutter, Kubernetes, GO! <br>
 📚 Passionately exploring the realms of Data Structures and Algorithms.
 
