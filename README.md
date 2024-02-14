@@ -1,6 +1,6 @@
                        
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Gaurav Poudel Banner" />
+  <img src="https://github.com/images/modules/search/dark2x.png" alt="Gaurav Poudel Banner" />
 </div>
 
 # Namaste! 🙏 I'm Gaurav Poudel, an engineer on a journey from the enchanting landscapes of Nepal.
