@@ -1,6 +1,6 @@
                        
 <div align="center">
-  <img height="250" width="250" src="https://github.com/images/modules/search/dark2x.png" alt="Gaurav Poudel Banner" />
+  <img height="250" width="450" src="https://github.com/images/modules/search/dark2x.png" alt="Gaurav Poudel Banner" />
 </div>
 
 # Namaste! 🙏 I'm Gaurav Poudel, an engineer on a journey from the enchanting landscapes of Nepal.
