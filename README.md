@@ -53,7 +53,10 @@
     <a href="https://golang.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
   <a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kNr02yFN7g0hfNcF52aYdIG8_kn6Z6Idf8AtdREvB7rcrDXLQUwEpwnVdwhRK1Qg1RY&usqp=CAU" alt="grafana" width="40" height="40">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kNr02yFN7g0hfNcF52aYdIG8_kn6Z6Idf8AtdREvB7rcrDXLQUwEpwnVdwhRK1Qg1RY&usqp=CAU" alt="prometheus" width="40" height="40">
+  </a>
+  <a>
+    <img src="https://icon2.cleanpng.com/20181116/rfs/kisspng-grafana-scalable-vector-graphics-application-softw-5bef3c66805155.6395683215424052225256.jpg" alt="grafana" width="40" height="40">
   </a>
   <a href="https://flutter.dev" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
