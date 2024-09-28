@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/iamgauravpoudel/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-## 🚀 Fun Facts
+## What am i ?
 
 - ⚡ On a mission to squash bugs and make the world a better place, one line of code at a time. 😄
 - 🧘‍♂️ Yoga enthusiast; finding serenity in both code and meditation.
