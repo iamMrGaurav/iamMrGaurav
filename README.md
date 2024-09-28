@@ -3,16 +3,13 @@
   <img height="290" width="450" src="https://github.com/images/modules/search/dark2x.png" alt="Gaurav Poudel Banner" />
 </div>
 
-# Namaste! 🙏 I'm Gaurav Poudel, an engineer on a journey from the enchanting landscapes of Nepal.
+# Hi 🙏 I'm Gaurav, an engineer on a journey from the enchanting landscapes of Nepal.
 
 ## About Me
 
 👨‍💻 Software Engineer @Sariska.io <br>
 🔭 Former Flutter Developer at Thulo Technology. <br>
-🌱 Currently immersing myself in Kubernetes, GCP, AWS, Terraform, Argo CD, HELM, Prometheus, Grafana, and Kibana<br>
-💬 Let's converse about Java, Flutter, Kubernetes, GO! <br>
-📚 Passionately exploring the realms of Data Structures and Algorithms.
-
+🌱 Passionately exploring the realms of Kubernetes, GCP, AWS, Terraform, Argo CD, HELM, Prometheus, Grafana, and Kibana<br>
 
 ## Connect with Me
 
