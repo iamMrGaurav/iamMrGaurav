@@ -3,9 +3,7 @@
   <img height="290" width="450" src="https://github.com/images/modules/search/dark2x.png" alt="Gaurav Poudel Banner" />
 </div>
 
-# Hi 🙏 I'm Gaurav, an engineer on a journey from the enchanting landscapes of Nepal.
-
-## About Me
+## About Gaurav
 
 👨‍💻 Software Engineer @Sariska.io <br>
 🔭 Former Flutter Developer at Thulo Technology. <br>
