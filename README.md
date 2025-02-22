@@ -33,7 +33,10 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img</p>
 -->
 
-<p align="left"> 
+<p align="left">
+  <a href="https://github.com/azure" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="40" height="40" >
+  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://redis.io/" target="_blank"> 
