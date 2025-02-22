@@ -34,9 +34,6 @@
 -->
 
 <p align="left">
-  <a href="https://github.com/azure" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="40" height="40" >
-  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://redis.io/" target="_blank"> 
@@ -57,6 +54,15 @@
   </a>
    <a>
     <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="grafana" width="40" height="40">
+  </a>
+  <a href="https://github.com/azure" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="40" height="40" >
+  </a>
+  <a href="https://github.com/googlecloudplatform" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="azure" width="40" height="40" >
+  </a>
+  <a href="https://github.com/hashicorp" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/761456?s=200&v=4" alt="azure" width="40" height="40" >
   </a>
   <a href="https://flutter.dev" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
