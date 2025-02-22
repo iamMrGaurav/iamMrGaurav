@@ -4,7 +4,7 @@
 </div>
 
 ## About Gaurav
- - SWE at Starmaker - Rockstar Studioz <br>
+👨‍💻 SWE at Starmaker - Rockstar Studioz <br>
 👨‍💻 Previously at @Sariska.io <br>
 🔭 Former Flutter Developer at Thulo Technology. <br>
 🌱 Passionately exploring the realms of Kubernetes, GCP, AWS, Terraform, Argo CD, HELM, Prometheus, Grafana, and Kibana<br>
