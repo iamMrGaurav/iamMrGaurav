@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="290" width="450" src="https://github.com/images/modules/search/dark2x.png" alt="" />
   <p><em> Backend | Cloud Navigator | Problem Solver</em></p>
 </div>
 
@@ -9,7 +8,7 @@
 
 Result-driven Software Engineer with 2+ years of experience and a ***First Class Honors Degree*** in Computing from London Metropolitan University. I craft scalable microservices, mobile apps, and cloud solutions with Java, Golang, Node.js, Flutter, Kubernetes, AWS, and more.
 
-#### 🎯 MY QUEST LOG
+#### 🎯 EXP
 - **Currently:** Software Engineer at Starmaker - Rockstar Studioz, rocking the code stage.  
 - **Previously:** SWE @Sariska.io | Flutter maestro @Thulo Technology.  
 - **Mission:** Developing microservices and cloud solutions that don’t just work—they *shine*.  
@@ -19,14 +18,6 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 - **Cloud & DevOps:** Kubernetes, AWS, GCP, Azure, Terraform, Argo CD, Jenkins, HashiCorp Vault.  
 - **Monitoring Magic:** Prometheus, Grafana—keeping the chaos in check.  
 - **Specialty:** Building scalable, user-friendly apps with a knack for problem-solving.  
-
----
-
-### 🧙‍♂️ THE ENGINEER’S CODEX
-- 🎓 **Origin:** First Class Honors in Computing—straight outta London Met!  
-- 🛠️ **Craft:** 2+ years forging microservices, mobile apps, and cloud kingdoms.  
-- 🧘‍♂️ **Zen:** Yoga keeps me balanced; debugging keeps me sharp.  
-- 🎮 **Side Quest:** Slaying virtual foes when the terminal takes a breather.  
 
 ---
 
