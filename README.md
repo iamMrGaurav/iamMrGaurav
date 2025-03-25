@@ -5,7 +5,7 @@
 
 ---
 
-### 🌩️ WELCOME TO THE CODE NEXUS
+### 🌩️ About ME
 
 Hey there, tech voyager! I’m **Gaurav Poudel**, a result-driven software engineer with a **First Class Honors Degree in Computing** from London Metropolitan University. With over **2 years of working experience**
 
