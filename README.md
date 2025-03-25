@@ -1,11 +1,4 @@
-<div align="center">
-  <p><em> Backend | Cloud Navigator | Problem Solver</em></p>
-</div>
-
----
-
-### 🌩️ About ME
-
+### 🌩️ Backend | Cloud Navigator | Problem Solver
 Result-driven Software Engineer with 2+ years of experience and a ***First Class Honors Degree*** in Computing from London Metropolitan University. I craft scalable microservices, mobile apps, and cloud solutions with Java, Golang, Node.js, Flutter, Kubernetes, AWS, and more.
 
 #### 🎯 EXP
@@ -19,7 +12,6 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 - **Monitoring Magic:** Prometheus, Grafana, Elastic Search—keeping the chaos in check.  
 
 ---
-
 ### 🌐 LINK UP, LEVEL UP
 <div align="center">
   <a href="https://x.com/we_crood" target="_blank">
@@ -34,7 +26,6 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 </div>
 
 ---
-
 ### 🛡️ TECH'S I'Ve Worked Previously
 <div align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -97,9 +88,6 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android-studio" width="40" height="40"/> 
   </a>
 </div>
-
 ---
-
 ### 🌠 Motive
 > “fall down seven times, stand up eight”  
-
