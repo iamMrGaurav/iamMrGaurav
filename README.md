@@ -14,10 +14,9 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 - **Mission:** Developing microservices and cloud solutions that don’t just work—they *shine*.  
 
 #### ⚡ SUPERPOWERS UNLOCKED
-- **Languages:** Java, Golang, Node.js, Flutter—my trusty spellbook.  
+- **Languages:** Java, Golang, Node.js, Flutter
 - **Cloud & DevOps:** Kubernetes, AWS, GCP, Azure, Terraform, Argo CD, Jenkins, HashiCorp Vault.  
-- **Monitoring Magic:** Prometheus, Grafana—keeping the chaos in check.  
-- **Specialty:** Building scalable, user-friendly apps with a knack for problem-solving.  
+- **Monitoring Magic:** Prometheus, Grafana, Elastic Search—keeping the chaos in check.  
 
 ---
 
@@ -36,7 +35,7 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 
 ---
 
-### 🛡️ TECH ARSENAL
+### 🛡️ TECH'S I'Ve Worked Previously
 <div align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -102,6 +101,5 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 ---
 
 ### 🌠 JOIN THE CODE CRUSADE
-> “Turning coffee into code, and chaos into solutions—one commit at a time.”  
+> “fall down seven times, stand up eight”  
 
-Got a wild idea or a bug to squash? Fork a repo, drop a star, or ping me—let’s craft something legendary. Cheers to epic builds and epic battles! 🎉💻
