@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="290" width="450" src="https://github.com/images/modules/search/dark2x.png" alt="Gaurav Poudel Code Nexus" />
-  <h1>🚀 GAURAV POUDEL 🚀</h1>
+  <img height="290" width="450" src="https://github.com/images/modules/search/dark2x.png" alt="" />
   <p><em> Backend | Cloud Navigator | Problem Solver</em></p>
 </div>
 
@@ -8,7 +7,7 @@
 
 ### 🌩️ WELCOME TO THE CODE NEXUS
 
-Hey there, tech voyager! I’m **Gaurav Poudel**, a result-driven software engineer with a **First Class Honors Degree in Computing** from London Metropolitan University. With over **2 years of battle-tested experience**, I’m here to brew scalable microservices, craft slick mobile apps, and tame the wild clouds—all while keeping the vibes high and the bugs low.
+Hey there, tech voyager! I’m **Gaurav Poudel**, a result-driven software engineer with a **First Class Honors Degree in Computing** from London Metropolitan University. With over **2 years of working experience**
 
 #### 🎯 MY QUEST LOG
 - **Currently:** Software Engineer at Starmaker - Rockstar Studioz, rocking the code stage.  
