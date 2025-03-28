@@ -10,7 +10,8 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 - **Languages:** Java, Golang, Node.js, Flutter
 - **Cloud & DevOps:** Kubernetes, AWS, GCP, Azure, Terraform, Argo CD, Jenkins, HashiCorp Vault.  
 - **Monitoring Magic:** Prometheus, Grafana, Elastic Search—keeping the chaos in check.
--   
+
+   
 ---
 ### 🌠 Motive
 > “fall down seven times, stand up eight”-- 
