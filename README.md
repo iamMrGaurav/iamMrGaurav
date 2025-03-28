@@ -13,5 +13,5 @@ Result-driven Software Engineer with 2+ years of experience and a ***First Class
 
    
 ---
-### 🌠 Motive
+
 > “fall down seven times, stand up eight”-- 
