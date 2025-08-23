@@ -1,5 +1,5 @@
 ### 🌩️ Backend | Cloud Navigator | Problem Solver
-Result-driven Software Engineer with 2+ years of experience and a ***First Class Honors Degree*** in Computing from London Metropolitan University. I craft scalable microservices, mobile apps, and cloud solutions with Java, Golang, Node.js, Flutter, Kubernetes, AWS, and more.
+Result-driven Software Engineer and a ***First Class Honors Degree*** in Computing from London Metropolitan University. I craft scalable microservices, mobile apps, and cloud solutions with Java, Golang, Node.js, Flutter, Kubernetes, AWS, and more.
 
 #### 🎯 EXP
 - **Currently:** Software Engineer at Starmaker - Rockstar Studioz, rocking the code stage.  
