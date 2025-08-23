@@ -3,7 +3,7 @@ Result-driven Software Engineer and a ***First Class Honors Degree*** in Computi
 
 #### 🎯 EXP
 - **Previously:** Software Engineer at Starmaker - Rockstar Studioz, rocking the code stage.  
-- **Previously:** SWE @Sariska.io | Flutter maestro @Thulo Technology.  
+- **Previously:** SWE @Sariska.io | Flutter Dev @Thulo Technology.  
 - **Mission:** Developing microservices and cloud solutions.
 
 #### ⚡ Techs
