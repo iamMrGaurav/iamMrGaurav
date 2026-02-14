@@ -2,6 +2,7 @@
 Result-driven Software Engineer and a ***First Class Honors Degree*** in Computing from London Metropolitan University. I craft scalable microservices, mobile apps, and cloud solutions with Java, Golang, Node.js, Flutter, Kubernetes, AWS, and more.
 
 #### 🎯 EXP
+- SWE @gStanVerse
 - **Previously:** Software Engineer at Starmaker - Rockstar Studioz, rocking the code stage.  
 - **Previously:** SWE @Sariska.io | Flutter Dev @Thulo Technology.  
 - **Mission:** Developing microservices and cloud solutions.
